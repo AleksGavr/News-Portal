@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45906a69-4fad-4b4a-89f4-df64ff3fbb3f" name="Changes" comment="Final">
-      <change afterPath="$PROJECT_DIR$/.idea/News_Portal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newsapp/templates/newsapp/authors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NewsPaper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewsPaper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewsPaper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewsPaper/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/Probi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +115,7 @@
       <workItem from="1660462248532" duration="5000" />
       <workItem from="1660462263261" duration="821000" />
       <workItem from="1660464447084" duration="196000" />
-      <workItem from="1660464672892" duration="1351000" />
+      <workItem from="1660464672892" duration="2486000" />
     </task>
     <task id="LOCAL-00001" summary="Rolling back">
       <created>1660178875678</created>
@@ -186,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660461206758</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final">
+      <created>1660466850312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660466850312</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final">
+      <created>1660466920570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660466920570</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +217,7 @@
     <MESSAGE value="Everything is working. Play around and start censoring" />
     <MESSAGE value="Censorship works" />
     <MESSAGE value="The End" />
-    <option name="LAST_COMMIT_MESSAGE" value="The End" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
 </project>
