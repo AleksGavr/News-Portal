@@ -1,6 +1,5 @@
 from django import template
 
-# если мы не зарегистрируем наши фильтры, то Django никогда не узнает, где именно их искать и фильтры потеряются
 register = template.Library()
 
 censor_words = [
@@ -16,11 +15,3 @@ def censor(value):
         if cw.lower() in censor_words:
             value = value.replace(cw, cw[0] + '*' * (len(cw) - 1))
     return value
-
-# for word in in_text.split():
-#     if word.lower() in bad_text:
-#         in_text = in_text.replace(
-#             word,
-#             f'{word[0]}{"*" * (len(word) - 1)}'
-#         )
-# return in_text
