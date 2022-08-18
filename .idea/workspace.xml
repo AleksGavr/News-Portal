@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40293225-fec7-4992-bb72-0c046a4fa796" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/newsapp/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newsapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10021006-ada2-49cf-b1cd-a77f9958647c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/10021006-ada2-49cf-b1cd-a77f9958647c.xml" afterDir="false" />
+    <list default="true" id="40293225-fec7-4992-bb72-0c046a4fa796" name="Changes" comment="Everything works, but without the bootstrap. Now I will try to tie everything together.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewsPaper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewsPaper/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/flatpages/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +61,16 @@
       <workItem from="1660469099438" duration="2854000" />
       <workItem from="1660774675904" duration="3025000" />
       <workItem from="1660778230364" duration="1300000" />
-      <workItem from="1660779856892" duration="837000" />
+      <workItem from="1660779856892" duration="2258000" />
     </task>
+    <task id="LOCAL-00001" summary="Everything works, but without the bootstrap. Now I will try to tie everything together.">
+      <created>1660780866332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660780866332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Everything works, but without the bootstrap. Now I will try to tie everything together." />
+    <option name="LAST_COMMIT_MESSAGE" value="Everything works, but without the bootstrap. Now I will try to tie everything together." />
   </component>
 </project>
