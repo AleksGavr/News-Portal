@@ -4,9 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40293225-fec7-4992-bb72-0c046a4fa796" name="Changes" comment="Everything works, but without the bootstrap. Now I will try to tie everything together.">
+    <list default="true" id="40293225-fec7-4992-bb72-0c046a4fa796" name="Changes" comment="Supplemented readme with the task of the module D4">
+      <change afterPath="$PROJECT_DIR$/static/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/olddefault.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/post_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/flatpages/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/flatpages/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +86,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/MyProjects/News_Portal&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MyProjects/News_Portal/templates/flatpages&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyProjects\News_Portal\templates\flatpages" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +111,12 @@
       <workItem from="1660469099438" duration="2854000" />
       <workItem from="1660774675904" duration="3025000" />
       <workItem from="1660778230364" duration="1300000" />
-      <workItem from="1660779856892" duration="2258000" />
+      <workItem from="1660779856892" duration="3494000" />
+      <workItem from="1660783625799" duration="187000" />
+      <workItem from="1660784875243" duration="389000" />
+      <workItem from="1660785340839" duration="400000" />
+      <workItem from="1660785959997" duration="821000" />
+      <workItem from="1660786882823" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="Everything works, but without the bootstrap. Now I will try to tie everything together.">
       <created>1660780866332</created>
@@ -70,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660780866332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Supplemented readme with the task of the module D4">
+      <created>1660782459545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660782459545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Supplemented readme with the task of the module D4">
+      <created>1660786099215</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660786099215</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Everything works, but without the bootstrap. Now I will try to tie everything together." />
-    <option name="LAST_COMMIT_MESSAGE" value="Everything works, but without the bootstrap. Now I will try to tie everything together." />
+    <MESSAGE value="Supplemented readme with the task of the module D4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supplemented readme with the task of the module D4" />
   </component>
 </project>
